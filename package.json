@@ -12,6 +12,10 @@
 	"license": "ISC",
 	"devDependencies": {
 		"css-loader": "^6.7.1",
+		"file-loader": "^6.2.0",
+		"html-loader": "^4.1.0",
+		"html-webpack-plugin": "^5.5.0",
+		"image-webpack-loader": "^8.1.0",
 		"postcss": "^8.4.14",
 		"postcss-loader": "^7.0.1",
 		"postcss-preset-env": "^7.7.2",
