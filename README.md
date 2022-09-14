@@ -14,6 +14,14 @@ This webpack template/boilerplate was formatted according to colt steele's full 
 -    Asset modules in replacement of file loaders
 -    Split development and production mode
 
+
+## Usage
+
+1. Fork this repo/download the attached zip file 
+2. npm install - to install dependencies
+3. npm build - to build dist folder and go into production mode
+4. npm start - to go into development mode
+
 ## Issues
 
 -    ***FIXED***  Some deprecated webpack features/syntax such as destructuring of the import of the merge function were replaced with updated syntax (enclosing merge with curly brackets) for it to function accordingly.
